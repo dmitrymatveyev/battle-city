@@ -1,0 +1,1 @@
+A simple pseudographic game built from the scratch without using any game engine.
